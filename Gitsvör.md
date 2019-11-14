@@ -1,6 +1,6 @@
 svör
 1.Hvað gera eftirfarandi Linux skipanir?
-cd -
+cd -> skiptir um möppu
 ls -
 pwd -
 mkdir -
