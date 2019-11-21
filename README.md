@@ -1,4 +1,6 @@
 # Geymsla
 Hyonk hyonk fear me
 Hvað viltu mér?
-Ekkert
+The Infinity glove
+Nei þú færð það ekki
+REEEEEEEEEEEEEEEEEE
